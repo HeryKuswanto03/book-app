@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC005 - Cari buku berdasarkan nama buku</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>b29a50d2-4f87-419f-b755-2d6ada23a8bd</testCaseGuid>
+</TestCaseEntity>

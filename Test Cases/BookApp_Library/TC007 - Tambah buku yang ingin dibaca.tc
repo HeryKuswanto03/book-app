@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC007 - Tambah buku yang ingin dibaca</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>86363c4b-f17e-4d8b-8238-ec3abc1cf98d</testCaseGuid>
+</TestCaseEntity>
